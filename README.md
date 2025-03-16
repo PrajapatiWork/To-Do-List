@@ -15,16 +15,18 @@
   <li>Delete single task</li>
 </ul>
 <h3>Images of web application</h3>
-<p>When page load</p><br>
+<p>When page load</p>
 ![ToDoList-img1](https://github.com/user-attachments/assets/1e58bf0b-6d4f-4c2f-b2ad-4fb9c9135b37)
-
-<p>Add Task</p><br>
+<br>
+<br>
+<p>Add Task</p>
 ![ToDoList-img2](https://github.com/user-attachments/assets/6cf139a5-f21c-48ce-bd72-2bd4b3dbf1eb)
-
-<p>Edit in Task of list</p><br>
+<br>
+<br>
+<p>Edit in Task of list</p>
 ![Edit in task](https://github.com/user-attachments/assets/e1fd828a-1ad9-4ba4-b20b-3de1d9c7fdd8)
-
-
-<p>Remove the task</p><br>
+<br>
+<br>
+<p>Remove the task</p>
 ![Remove task from the list](https://github.com/user-attachments/assets/9bb60709-e3b9-4693-9aed-c62c16199cb7)
 
