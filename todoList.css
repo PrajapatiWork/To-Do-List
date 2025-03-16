@@ -1,0 +1,108 @@
+* {
+    margin: 0;
+    padding: 0;
+    border-radius: 6px;    
+}
+
+.taskList {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    gap: 10px;
+    padding-bottom: 3px;
+}
+
+.task{
+    margin-left: 3px;
+    margin-top: 3px;
+    padding: 2px 2px 2px 5px;
+    width: 70%;
+    height: 4vh;
+    line-height: 2;
+    background-color: rgb(241, 244, 243);   
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.userTask,.msgBox { 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    gap: 10px;
+    margin: 15px 15px 15px 10px; 
+    
+}
+
+#userText {
+    padding: 2px;
+    width: 73%;
+    font-size: medium;
+    line-height: 2;
+    border: none;
+    }
+
+.taskContainer {
+    margin: 20px;
+    border: 1px black solid;   
+    height: auto;
+    width: 50vw;    
+    background-color: rgb(131, 162, 235);
+}
+
+.tasklistContainer {
+    border-top: 1px black solid;
+    background-color: rgb(207, 218, 244);
+    border-radius: 0px 0px 6px 6px;   
+}
+
+.mainContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.btnAdd {
+    width: 20%;
+    padding: 4px;
+    line-height: 2;
+    font-weight: bold;
+    font-size:700;   
+    background-color: #ff830ceb;
+    color: white;
+}
+button{
+   border: none;
+}
+
+button:hover {
+    background-color: rgb(109, 178, 238);
+    color: white;
+}
+h2 {
+    margin-top: 10px;
+    text-decoration: underline;
+}
+.btnEdit,.btnRemove{
+    width: 10%;
+    padding: 4px;
+}
+.btnEdit{
+    background-color:#ffd100; 
+    color: white;    
+    font-size:700
+}
+
+.btnRemove {
+    background-color:#ed0707;
+    color: white;  
+    font-size:700  
+}
+.msgBox{
+    background-color: beige;
+    font-size:large;
+    color: #ed0707;
+    line-height: 2;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}

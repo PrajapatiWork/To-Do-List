@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>To Do List</title>
+    <link rel="stylesheet" href="todoList.css">
+</head>
+
+<body>
+    <div class="mainContainer">
+        <h2>Make Your To Do List</h2>
+        <div class="taskContainer">
+            <div class="userTask">
+                <input id="userText" type="text" onfocus="this.value=''" placeholder="Type your task here" required
+                    autofocus>
+                <button class="btnAdd">Add to list</button>
+            </div>
+            <div class="tasklistContainer">
+                <div class="msgBox" style=" display: none; background-color: blueviolet;">
+                    <p id="msg">p</p>
+                </div>
+                <div class="taskList" style="display: none;">
+                    <p class="task"></p>
+                    <button class="btnEdit">Edit</button>
+                    <button class="btnRemove">Remove</button>
+                </div>
+            </div>
+
+        </div>
+        <script src="todoList.js"></script>
+</body>
+
+</html>
