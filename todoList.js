@@ -42,7 +42,7 @@ const editTask = (curntElement) => {
         let editedInput = document.createElement('p');
         editedInput.className = 'task';
         editedInput.textContent = currentTexttoEdit;
-        curntElement.parentElement.replaceChild(editInput, curntElement.previousElementSibling)
+        curntElement.parentElement.replaceChild(editedInput, curntElement.previousElementSibling)
 
     } else {
         curntElement.textContent = "Save";
