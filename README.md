@@ -28,5 +28,7 @@
 <br>
 <br>
 <p>Remove the task</p>
-![Remove task from the list](https://github.com/user-attachments/assets/9bb60709-e3b9-4693-9aed-c62c16199cb7)
+![Remove task from the list](https://github.com/user-attachments/assets/e8b81699-0cfd-43ba-a371-7a13ec32c06b)
+
+
 
