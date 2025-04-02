@@ -1,4 +1,4 @@
-![ToDoList-img1](https://github.com/user-attachments/assets/eb87ab0f-aece-4642-9947-9a9d62f3c21e)<b>"To Do List" </b>web application to save your daily tasks in order not to miss anything.
+<b>"To Do List" </b>web application to save your daily tasks in order not to miss anything.
 <br>
 <h3>Technologies used:</h3>
 <ul>
